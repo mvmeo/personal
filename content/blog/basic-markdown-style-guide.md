@@ -1,5 +1,6 @@
 ---
 external: false
+draft: true
 title: "Basic markdown style guide"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
 date: 2022-11-02
@@ -42,6 +43,7 @@ Paragraphs can be multiline too when they constitute words that make up more tha
 > This is a blockquote. And it's pretty long too. Long enough to wrap to next line. Surely it will wrap.
 
 > You can use other Markdown syntax like `inline code` within a blockquote.
+
 
 ## Tables
 
