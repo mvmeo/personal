@@ -12,8 +12,8 @@
 
     /* light theme */
     .theme-sleek {
-        /* Tailwind orange-500 #f97316 */
-        --color-primary-main: 249 115 22;
+        /* Polar.ts color #76AB89 */
+        --color-primary-main: 118 171 137;
 
         /* Tailwind gray-700 #374151 */
         --color-text-body: 55 65 81;
@@ -24,7 +24,7 @@
         /* Tailwind gray-500 #6b7280 */
         --color-text-muted: 107 114 128;
         /* Tailwind orange-500 #f97316 */
-        --color-text-link: 249 115 22;
+        --color-text-link: 118 171 137;
         /* black */
         --color-text-code: 0 0 0;
         /* black */
@@ -33,7 +33,7 @@
         /* white */
         --color-bg-body: 255 255 255;
         /* Tailwind orange-50 #fff7ed */
-        --color-bg-code: 255 247 237;
+        --color-bg-code: 198 237 212;
         /* Tailwind amber-200 #fde68a */
         --color-bg-selection: 253 230 138;
 
@@ -44,8 +44,8 @@
 
     /* dark theme */
     .theme-sleek.dark {
-        /* Tailwind yellow-400 #facc15 */
-        --color-primary-main: 250 204 21;
+        /* Polar ts color darkmode #82bb97 */
+        --color-primary-main: 130 187 151;
 
         /* Tailwind stone-300 #d6d3d1 */
         --color-text-body: 214 211 209;
@@ -56,7 +56,7 @@
         /* Tailwind stone-400 #a8a29e */
         --color-text-muted: 168 162 158;
         /* Tailwind yellow-400 #facc15 */
-        --color-text-link: 250 204 21;
+        --color-text-link: 130 187 151;
         /* black */
         --color-text-code: 255 255 255;
         /* black */
@@ -65,7 +65,7 @@
         /* #0e141b */
         --color-bg-body: 14 20 27;
         /* Tailwind yellow-500 #eab308 */
-        --color-bg-code: 234 179 8;
+        --color-bg-code: 130 187 151;
         /* Tailwind yellow-300 #fde047 */
         --color-bg-selection: 253 224 71;
 

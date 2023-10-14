@@ -1,6 +1,6 @@
 ---
 title: ePauta, plataforma de intercambio de material de estudio.
-description: It's a beautiful world out there.
-date: 2022-02-13
+description: ePauta es una plataforma de intercambio de material de estudio, donde los estudiantes pueden compartir y buscar material de estudio de forma gratuita.
+date: 2023-01-02
 url: https://epauta.vercel.app/
 ---
